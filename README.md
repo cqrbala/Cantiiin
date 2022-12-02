@@ -90,3 +90,9 @@ A command that allows the user to input how much money they are willing to spend
 
 The 0-1 knapsack DP algorithmn was used to get the optimum combinations of food items.
 
+
+
+https://user-images.githubusercontent.com/97172421/205387085-f6f2f09a-4eb3-41c9-915e-29fea2032ca1.mp4
+
+
+
