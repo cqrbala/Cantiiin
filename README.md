@@ -8,6 +8,8 @@ Using the python CLI we were able to implement a variety of commands that the us
 
 The following is the overview of each of the commands implemented
 
+https://user-images.githubusercontent.com/97172421/205387085-f6f2f09a-4eb3-41c9-915e-29fea2032ca1.mp4
+
 # Insert
 
 Queries that allow the insertion of records into a table of the database
@@ -92,7 +94,7 @@ The 0-1 knapsack DP algorithmn was used to get the optimum combinations of food 
 
 
 
-https://user-images.githubusercontent.com/97172421/205387085-f6f2f09a-4eb3-41c9-915e-29fea2032ca1.mp4
+
 
 
 
